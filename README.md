@@ -5,5 +5,5 @@ A cool chrome extension that saves time by saving links and tabs that are to be 
 
 
 
-![si2](https://user-images.githubusercontent.com/119573539/209993441-04e49e68-66ac-43e5-bf6c-2965326a8b93.png)
+
 
